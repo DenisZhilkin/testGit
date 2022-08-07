@@ -1,3 +1,3 @@
 a = 1
-print('srsr')
+b = 2
 exit();
